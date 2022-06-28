@@ -1,2 +1,2 @@
-# sfg-pet-clinic
-SFT Pet Clinic
+# Pet Clinic Application
+

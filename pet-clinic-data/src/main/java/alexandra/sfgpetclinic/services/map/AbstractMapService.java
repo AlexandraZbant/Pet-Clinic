@@ -1,7 +1,5 @@
 package alexandra.sfgpetclinic.services.map;
 
-import jdk.javadoc.internal.doclets.toolkit.taglets.SeeTaglet;
-
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;

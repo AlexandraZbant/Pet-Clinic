@@ -1,6 +1,5 @@
 package alexandra.sfgpetclinic.services.map;
 
-import alexandra.sfgpetclinic.model.Owner;
 import alexandra.sfgpetclinic.model.Pet;
 import alexandra.sfgpetclinic.services.CrudService;
 

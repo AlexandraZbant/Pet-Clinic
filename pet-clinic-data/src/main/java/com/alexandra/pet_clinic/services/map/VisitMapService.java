@@ -26,7 +26,7 @@ public class VisitMapService extends AbstractMapService<Visit, Long> implements 
         }
         return super.save(object);
     }
-    
+
     @Override
     public void deleteById(Long id) {
         super.deleteById(id);
